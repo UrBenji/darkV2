@@ -1,6 +1,6 @@
 ---
-title: The London Book Fair
-thumbnail: "../static/uploads/c0279e51944227.58ff649a8bbfb.jpg"
+title: 'I Am Not Welcome Here '
+thumbnail: "../static/uploads/dots1.gif"
 year: "2017"
 categories:
 - Branding
